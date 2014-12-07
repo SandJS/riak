@@ -1,0 +1,29 @@
+{
+  "name": "sand-riak",
+  "version": "0.0.1",
+  "description": "Sand Riak Wrapper",
+  "main": "lib/riak.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pocketly/sand-riak"
+  },
+  "keywords": [
+    "riak",
+    "grain",
+    "sand"
+  ],
+  "author": "Kevin Smithson <ksmithson@pocketly.com>",
+  "homepage": "https://github.com/pocketly/sand-riak",
+  "bugs": {
+    "url": "https://github.com/pocketly/sand-riak"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "riak-js": "^1.0.1",
+    "sand-extend": "0.0.1",
+    "sand-grain": "0.0.1"
+  }
+}
