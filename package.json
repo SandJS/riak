@@ -1,6 +1,6 @@
 {
   "name": "sand-riak",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Sand Riak Wrapper",
   "main": "lib/riak.js",
   "scripts": {
@@ -24,6 +24,6 @@
   "dependencies": {
     "riak-js": "^1.0.1",
     "sand-extend": "0.0.1",
-    "sand-grain": "0.0.1"
+    "sand-grain": "0.0.3"
   }
 }
