@@ -1,6 +1,6 @@
 {
   "name": "sand-riak",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Sand Riak Wrapper",
   "main": "lib/riak.js",
   "scripts": {
