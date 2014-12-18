@@ -23,7 +23,6 @@
   "license": "ISC",
   "dependencies": {
     "riak-js": "^1.0.1",
-    "sand-extend": "0.0.4",
-    "sand-grain": "0.0.10"
+    "sand-grain": "0.1.1"
   }
 }
