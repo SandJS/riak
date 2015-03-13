@@ -24,5 +24,8 @@
   "dependencies": {
     "riak-js": "1.0.2",
     "sand-grain": "1.0.0"
+  },
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org"
   }
 }
