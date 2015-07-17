@@ -22,7 +22,8 @@
   },
   "license": "ISC",
   "dependencies": {
-    "riak-js": "1.0.2",
+    "@sazze/riak": "^2.1.0",
+    "q": "^1.4.1",
     "sand-grain": "1.0.0"
   },
   "publishConfig": {
